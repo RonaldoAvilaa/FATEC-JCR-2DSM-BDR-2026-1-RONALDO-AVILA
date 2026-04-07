@@ -3,7 +3,7 @@ Disciplina de Banco de Dados Relacional – 2º semestre DSM – 2026/1
 # Portfólio – Banco de Dados Relacional – 2026/1
 ## Aluno
 - Nome: Ronaldo de Avila Ribeiro Junior
-- LinkedIn:
+- LinkedIn: www.linkedin.com/in/ronaldoavilaa
 - GitHub: https://github.com/RonaldoAvilaa
 ---
 ## Estrutura
